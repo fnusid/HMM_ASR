@@ -14,7 +14,7 @@ This is a basic HMM based ASR which uses MFCC and delta values as features to id
 6. 'What time is it'
 
 ## Dependencies
-librosa, bumpy
+librosa, numpy
 
 The code has been developed from scratch by @Sidharth. If you want to know more about this, refer to the "Report.pdf" 
 
