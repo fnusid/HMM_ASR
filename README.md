@@ -16,6 +16,6 @@ This is a basic HMM based ASR which uses MFCC and delta values as features to id
 ## Dependencies
 `librosa, numpy`
 
-The code has been developed from scratch by @Sidharth. If you want to know more about this, refer to the "Report.pdf" 
+The code has been developed from scratch by @Sidharth (sidcs@umich.edu). If you want to know more about this, refer to the "Report.pdf" 
 
 
